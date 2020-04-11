@@ -38,11 +38,8 @@
         </tr>
     </table>
     <br>
-    <tr>
-        <td colspan="2">
-            <input type="submit" value="Cadastrar"/>
-        </td>
-    </tr>
+    <input type="submit" value="Cadastrar"/>
+    <a href="../">Página inicial</a>
 </form:form>
 
 </body>

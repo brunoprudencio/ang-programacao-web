@@ -37,10 +37,10 @@
                 E-mail</form:label></td>
             <td><form:input path="mail"/></td>
         </tr>
-        <tr>
-            <td colspan="2"><input type="submit" value="Cadastrar"/></td>
-        </tr>
     </table>
+    <br>
+    <input type="submit" value="Cadastrar"/>
+    <a href="../">Página inicial</a>
 </form:form>
 </body>
 </html>

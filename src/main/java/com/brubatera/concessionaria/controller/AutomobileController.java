@@ -27,7 +27,7 @@ public class AutomobileController {
 
 	@GetMapping
 	public ModelAndView showForm(Model model) {
-		return new ModelAndView( "automobileServicing", "automobileservicing", new AutomobileServicing() );
+		return new ModelAndView( "automobileServicingRegistration", "automobileservicing", new AutomobileServicing() );
 	}
 
 	@PostMapping("/register")
